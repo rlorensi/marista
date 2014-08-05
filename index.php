@@ -11,5 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Inicio do projeto</h1>
+        <p>Primeira fase</p>
     </body>
 </html>
